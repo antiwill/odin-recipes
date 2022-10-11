@@ -42,8 +42,20 @@ a:hover{
 }
 
 h2{
-    color: rgb(255, 226, 78);
+    color: rgb(255, 122, 122);
     font-family: Futura, sans-serif;
     text-align: center;
     font-size: 36px;
+}
+
+p,
+.list2{
+    color: rgb(255, 226, 78);
+    text-align: center;
+    font-size: 22px;
+    font-family: Futura, sans-serif;
+}
+
+.text{
+    display: inline-block;
 }

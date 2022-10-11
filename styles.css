@@ -40,3 +40,10 @@ a:hover{
     height: auto;
     width: 450px;
 }
+
+h2{
+    color: rgb(255, 226, 78);
+    font-family: Futura, sans-serif;
+    text-align: center;
+    font-size: 36px;
+}

@@ -35,6 +35,8 @@ a:hover{
 }
 
 .recipe-img{
+    display: block;
+    margin: auto;
     height: auto;
-    width: 250px;
+    width: 450px;
 }

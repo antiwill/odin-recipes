@@ -9,6 +9,12 @@
     font-family: Futura, sans-serif;
 }
 
+.recipe-title{
+    color: rgb(249, 143, 38);
+    text-align: center;
+    font-family: Futura, sans-serif;
+}
+
 .list{
     list-style-type:none;
     margin: 0;

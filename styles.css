@@ -31,5 +31,10 @@ a:visited{
 }
 
 a:hover{
-    color: rgb(249, 143, 38)
+    color: rgb(249, 143, 38);
+}
+
+.recipe-img{
+    height: auto;
+    width: 250px;
 }
